@@ -1,5 +1,4 @@
 echo "Installing..BigToken"
-cd $HOME
 sudo apt install figlet
 apt install figlet
 figlet 7054company
