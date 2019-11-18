@@ -8,4 +8,5 @@ sudo apt install php
 apt install php
 echo "Running-setup"
 echo "setup-complete"
-Now type php bot.php
+echo "Now type php bot.php"
+php bot.php
